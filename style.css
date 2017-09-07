@@ -1,0 +1,43 @@
+body {
+	background-color: #f1f1f1;
+	font-family: 'Oswald', sans-serif;
+}
+
+.parallax-container {
+	height: 300px;
+}
+
+.overlay {
+	font-family: 'Dancing Script', cursive;
+	border: 1px solid #f1f1f1;
+	margin: auto;
+	margin-top: 8%;
+	text-align: center;
+	width: 50%;
+	color: #262626;
+	font-size: 5rem;
+}
+
+#chips {
+	border: 1px solid #262626;
+	margin: auto;
+	padding: 5px;
+	text-align: center;
+	text-transform: lowercase;
+	font-size: 14px;
+	display: inline-block;
+}
+
+#data {
+	font-size: 14px;
+	display: inline-block;
+}
+
+#link {
+	font-size: 14px;
+}
+
+#links {
+	font-size: 14px;
+	color: #262626;
+}
